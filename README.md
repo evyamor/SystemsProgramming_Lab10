@@ -1,3 +1,2 @@
 # SystemsProgramming_Lab10
-Private and Shared remote shell
-Python server and client implementation.
+Implementation of multi-thread client-server UDP application for remote shell , Python
